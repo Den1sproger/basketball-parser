@@ -1,0 +1,9 @@
+urllib3
+requests
+bs4
+lxml
+openpyxl
+selenium
+fake-useragent
+python-dotenv
+pyinstaller
